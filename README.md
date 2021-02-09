@@ -5,6 +5,7 @@ First manualy created docker container:
 - docker ps 
 - docker stop <the-container-id>
 - docker rm <the-container-id>
+    :  (docker rm -f <the-container-id>)
 - docker images
 - docker rmi -f docker-image
 - docker rm docker-container-id
